@@ -3,3 +3,5 @@
 http://rfahls-i.akamaihd.net/hls/live/226234/RFALive_3/index.m3u8
 #EXTINF:-2,PNN Cambodia
 http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
+#EXTINF:-3,LDP
+http://s6.voscast.com:9000/;stream.mp3
