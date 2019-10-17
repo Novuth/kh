@@ -1,3 +1,5 @@
 ﻿#EXTM3U
 #EXTINF:-1,RFA Live Stream
 http://rfahls-i.akamaihd.net/hls/live/226234/RFALive_3/index.m3u8
+#EXTINF:-2,Love FM 97.5
+http://radio99.servradio.com:9298/;stream.nsv
